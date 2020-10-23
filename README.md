@@ -1,6 +1,6 @@
 ### Hey there. I'm Aaron 👋
 
- I am a Web Developer in Philadelphia. I like dumb, (and on occasion, good) scary movies. My spirit animal is Ellen Ripley in a P-5000 Power Loader.
+ I am a Web Developer in Philadelphia. I like dumb, (and on occasion, good) scary movies. My guiding light is Ellen Ripley in a P-5000 Power Loader (W.W.E.R.I.A.P.L.D?).
 
 <p align="center">
   <img src="./images/powerloader.gif?raw=true" alt="Get away from her..."/>
